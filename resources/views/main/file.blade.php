@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ asset('build/assets/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <title>Document</title>
 </head>
 <body id="body">
@@ -44,5 +44,5 @@
     </div>
 </div>
 </body>
-<script src="{{ asset('build/assets/js/scripts.js') }}"></script>
+<script src="{{ asset('assets/js/scripts.js') }}"></script>
 </html>
